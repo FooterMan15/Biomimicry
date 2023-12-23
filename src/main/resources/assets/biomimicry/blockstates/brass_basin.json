@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "biomimicry:block/brass_basin/block"
+    },
+    "facing=east": {
+      "model": "biomimicry:block/brass_basin/block_directional",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "biomimicry:block/brass_basin/block_directional",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "biomimicry:block/brass_basin/block_directional"
+    },
+    "facing=west": {
+      "model": "biomimicry:block/brass_basin/block_directional",
+      "y": 90
+    }
+  }
+}
